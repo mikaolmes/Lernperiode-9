@@ -34,6 +34,8 @@
 - [ ] LinkedIn-Profil erstellen / ausputzen
 - [ ] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
+- [ ] Background-Color auf der Webseite und die ersten Daten von mir einfügen (Steckbrief)
+- [ ] Scroll effekt programmieren und testen mit lorem texts
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
