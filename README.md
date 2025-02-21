@@ -4,12 +4,12 @@
 
 ## Grob-Planung
 
-1. Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten?
+1. Welche Projekte haben Sie bereits auf Ihrem github, welche Sie verlinken könnten? <br>
    -> Mein Währungsrechner, evtl meine Gaming Webseite.
-2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten?
+2. Wie sieht Ihr *skill portfolio* aus? Was können Sie bereits, und was wäre etwas, das Sie lernen möchten? <br>
    -> Html + CSS. C#, Python, JavaScript
-3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode?
-   -> Backend + Frontend Website, bzw. einen Hausaufgaben Tracker
+3. Was wäre ein gutes Projekt für die zweite Hälfte dieser Lern-Periode? <br>
+   -> Backend + Frontend Website, bzw. einen Hausaufgaben Tracker und dazu noch notes dazu (Notizen)
 
 ## 21.2
 
