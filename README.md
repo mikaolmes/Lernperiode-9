@@ -24,7 +24,7 @@
   - [X] Rechtschreibeprüfung
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich ein Grundgerüst für meine Webseite geamcht und auch sogar schon ein Teil davon umgesetzt. Danach habe ich mein Referenzschreiben geschrieben, doch davor habe ich zuerst ein paar Begriffe gesammelt, damit ich ein gutes Referenzschreiben schreiben kann. Dies alles habe ich auf Papier gemacht, damit ich mir wirklich Zeit lassen konnte und meine Creativität freien lauf lassen konnte. Ich habe viele Ideen gefunden die ich umsetzten möchte. (70 Wörter)
 
 ☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
