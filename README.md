@@ -31,10 +31,10 @@
 ## 28.2
 
 - [ ] CV zusammenstellen
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [X] LinkedIn-Profil erstellen / ausputzen
+- [X] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite: Was ist das dringendste AP?
-- [ ] Background-Color auf der Webseite und die ersten Daten von mir einfügen (Steckbrief)
+- [X] Background-Color auf der Webseite und die ersten Daten von mir einfügen (Steckbrief)
 - [ ] Scroll effekt programmieren und testen mit lorem texts
 
 ✍️ Heute habe ich... (50-100 Wörter)
