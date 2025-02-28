@@ -37,13 +37,14 @@
 - [X] Background-Color auf der Webseite und die ersten Daten von mir einfügen (Steckbrief)
 - [ ] Scroll effekt programmieren und testen mit lorem texts
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich meine beiden Profile von LinkedIn und Github angepasst, sodass man mich im Internet finden kann, ausserdem habe ich auch noch an meiner Webseite weitergerarbeitet, aber leider funktioniert es nicht so wie ich möchte, da die Scrollfunktion nicht richtig funktioniert. (42 Wörter)
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 7.3
 
-- [ ] 
+- [ ] Daten in Webseite einfügen
+- [ ] Scroll Funktion für alle Kategorien machen, sodass wenn man scrollt die Box sich öffnet.
 - [ ] CV-Seite erstellen
 - [ ] Start-Seite 1
 - [ ] Start-Seite 2
