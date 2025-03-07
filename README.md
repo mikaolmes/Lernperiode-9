@@ -43,8 +43,8 @@
 
 ## 7.3
 
-- [ ] Daten in Webseite einfügen
-- [ ] Scroll Funktion für alle Kategorien machen, sodass wenn man scrollt die Box sich öffnet.
+- [ ] Persöhnliche Daten in Webseite einfügen
+- [ ] Projects auf der Webseite verlinken
 - [ ] CV-Seite erstellen
 - [ ] Start-Seite 1
 - [ ] Start-Seite 2
