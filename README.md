@@ -43,24 +43,23 @@
 
 ## 7.3
 
-- [ ] Persöhnliche Daten in Webseite einfügen
-- [ ] Projects auf der Webseite verlinken
+- [X] Persöhnliche Daten in Webseite einfügen
+- [X] Projects auf der Webseite verlinken
 - [ ] CV-Seite erstellen
 - [ ] Start-Seite 1
 - [ ] Start-Seite 2
-- [ ] Rückmeldung geben.
+- [X] Rückmeldung geben.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich an meiner Webseite weitergearbeitet, ich bin sehr zufriedne mit mir und ich bin sehr weit gekommen. Ich habe meine Projekte verlinkt und mein Github und LinkedIn Profil. Ausserdem habe ich danach noch ein drei Rückmeldungen an meine Kollegen geben und das war sehr interessant, da ich sehen konnte was die anderen Kollegen gemacht haben. (57 Wörter)
 
 ☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 14.3
 
-- [ ] 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Persönliche Daten in die Webseite einfügen
+- [ ] Backend aufsetzten (ASP.NET)
+- [ ] Datenbank verlinken, sodass die Daten aktuallisiert werden
+- [ ] Herausfinden wie ich html mit meinem Backend verlinke
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
