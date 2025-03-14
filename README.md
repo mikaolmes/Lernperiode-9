@@ -57,10 +57,11 @@
 ## 14.3
 
 - [X] Persönliche Daten in die Webseite einfügen
-- [ ] Backend aufsetzten (ASP.NET)
+- [X] Backend aufsetzten (ASP.NET)
 - [ ] Datenbank verlinken, sodass die Daten aktuallisiert werden
-- [ ] Herausfinden wie ich html mit meinem Backend verlinke
+- [X] Herausfinden wie ich html mit meinem Backend verlinke
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich als aller erstes meine persönliche Webseite ein wenig geupdatet, und zwar habe ich ein paar kleine Daten hinzugefügt. Danach habe ich mein Backend aufgesetzt. Danach habe ich recherchiert, wie ich ein Backend mit dem Frontend verbinden kann. Dafür habe ich auch auf Youtube ein Tutorial gesucht. Und auch gefunden:  (5Wörter)
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
+ 
