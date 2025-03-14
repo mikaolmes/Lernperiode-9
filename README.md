@@ -56,7 +56,7 @@
 
 ## 14.3
 
-- [ ] Persönliche Daten in die Webseite einfügen
+- [X] Persönliche Daten in die Webseite einfügen
 - [ ] Backend aufsetzten (ASP.NET)
 - [ ] Datenbank verlinken, sodass die Daten aktuallisiert werden
 - [ ] Herausfinden wie ich html mit meinem Backend verlinke
