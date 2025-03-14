@@ -64,4 +64,15 @@
 ✍️ Heute habe ich als aller erstes meine persönliche Webseite ein wenig geupdatet, und zwar habe ich ein paar kleine Daten hinzugefügt. Danach habe ich mein Backend aufgesetzt. Danach habe ich recherchiert, wie ich ein Backend mit dem Frontend verbinden kann. Dafür habe ich auch auf Youtube ein Tutorial gesucht. Leider habe ich noch kein gutes Video gefunden, ich werde noch weiter suchen, damit ich das Video nächste Woche  benutzen kann. (71 Wörter)
 
 ☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen.
+
+
+## 14.3
+
+- [ ] Im Backend die erste Operation von den CRUD Operationen erstellen (Read)
+- [ ] Datenbank verlinken, sodass die Daten aktuallisiert werden
+- [ ] Im Backend die zweite Operation von den CRUD Operationen erstellen (Create)
+- [ ] Im Backend die dritte Operation von den CRUD Operationen erstellen (Update)
+
+✍️ Heute habe ich . . . (50-100 Wörter)
+
  
