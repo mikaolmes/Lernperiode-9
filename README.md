@@ -73,6 +73,13 @@
 - [X] Im Backend die zweite Operation von den CRUD Operationen erstellen (Create)
 - [X] Im Backend die dritte Operation von den CRUD Operationen erstellen (Update)
 
-✍️ Heute bin ich sehr weit gekommen, ich konnte fast alle CRUD-Operationen vollständig implementieren und auch testen. Als nächstes muss ich die Delete Operation hinzufügen und anfangen einen JWT Token zu implementieren, also eine Authentifizierung. Danach kann ich das Frontend beginnen. (50-100 Wörter)
+✍️ Heute bin ich sehr weit gekommen, ich konnte fast alle CRUD-Operationen vollständig implementieren und auch testen. Als nächstes muss ich die Delete Operation hinzufügen und anfangen einen JWT Token zu implementieren, also eine Authentifizierung. Danach kann ich das Frontend beginnen. (40 Wörter)
 
+## 28.03
+
+- [ ] Delete Operation hinzufügen
+- [ ] Frontend mit Backend verbinden
+- [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
+- [ ] 
  
+✍️ Heute habe ich . . . (50-100 Wörter)
