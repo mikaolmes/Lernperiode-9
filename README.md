@@ -80,6 +80,5 @@
 - [ ] Delete Operation hinzufügen
 - [ ] Frontend mit Backend verbinden
 - [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
-- [ ] 
  
 ✍️ Heute habe ich . . . (50-100 Wörter)
