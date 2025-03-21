@@ -68,11 +68,11 @@
 
 ## 21.3
 
-- [ ] Im Backend die erste Operation von den CRUD Operationen erstellen (Read)
-- [ ] Datenbank verlinken, sodass die Daten aktuallisiert werden
-- [ ] Im Backend die zweite Operation von den CRUD Operationen erstellen (Create)
-- [ ] Im Backend die dritte Operation von den CRUD Operationen erstellen (Update)
+- [X] Im Backend die erste Operation von den CRUD Operationen erstellen (Read)
+- [X] Datenbank verlinken, sodass die Daten aktuallisiert werden
+- [X] Im Backend die zweite Operation von den CRUD Operationen erstellen (Create)
+- [X] Im Backend die dritte Operation von den CRUD Operationen erstellen (Update)
 
-✍️ Heute habe ich . . . (50-100 Wörter)
+✍️ Heute bin ich sehr weit gekommen, ich konnte fast alle CRUD-Operationen vollständig implementieren und auch testen. Als nächstes muss ich die Delete Operation hinzufügen und anfangen einen JWT Token zu implementieren, also eine Authentifizierung. Danach kann ich das Frontend beginnen. (50-100 Wörter)
 
  
