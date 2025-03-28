@@ -82,3 +82,11 @@
 - [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
  
 ✍️ Heute habe ich meine Delete Operation (der CRUD Operationen) hinzugefügt, und diese auch zugleich getestet. Danach habe ich nach einem Video gefunden wie ich eine html file der ASP.NET Core hinzufügen kann. Dieses Video schauen ich gerade an und verusche das zu schaffen, leider habe ich es noch nicht geschafft. (50 Wörter)
+
+## 04.04
+
+- [ ] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
+- [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
+- [ ] Socials verlinken
+ 
+✍️ Heute habe ich . . . (50 Wörter)
