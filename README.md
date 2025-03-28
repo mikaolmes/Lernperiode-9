@@ -88,5 +88,6 @@
 - [ ] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
 - [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
 - [ ] Socials verlinken
+- [ ] Dark und Light Theme hinzufügen
  
 ✍️ Heute habe ich . . . (50 Wörter)
