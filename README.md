@@ -92,3 +92,5 @@
 - [ ] Die Description der Note und der Task soll mit markdown machbar sein
  
 ✍️ Heute habe ich . . . (50 Wörter)
+
+## Zusammenfassung
