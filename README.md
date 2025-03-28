@@ -77,8 +77,8 @@
 
 ## 28.03
 
-- [ ] Delete Operation hinzufügen
-- [ ] Frontend mit Backend verbinden
+- [X] Delete Operation hinzufügen
+- [ ] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
 - [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
  
 ✍️ Heute habe ich . . . (50-100 Wörter)
