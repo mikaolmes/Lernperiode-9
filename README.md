@@ -89,5 +89,6 @@
 - [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
 - [ ] Socials verlinken
 - [ ] Dark und Light Theme hinzufügen
+- [ ] Die Description der Note und der Task soll mit markdown machbar sein
  
 ✍️ Heute habe ich . . . (50 Wörter)
