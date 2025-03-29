@@ -46,8 +46,6 @@
 - [X] Persöhnliche Daten in Webseite einfügen
 - [X] Projects auf der Webseite verlinken
 - [ ] CV-Seite erstellen
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
 - [X] Rückmeldung geben.
 
 ✍️ Heute habe ich an meiner Webseite weitergearbeitet, ich bin sehr zufriedne mit mir und ich bin sehr weit gekommen. Ich habe meine Projekte verlinkt und mein Github und LinkedIn Profil. Ausserdem habe ich danach noch ein drei Rückmeldungen an meine Kollegen geben und das war sehr interessant, da ich sehen konnte was die anderen Kollegen gemacht haben. (57 Wörter)
