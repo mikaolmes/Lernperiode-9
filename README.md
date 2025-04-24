@@ -90,7 +90,15 @@
 - [X] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
 - [X] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
 - [ ] Socials verlinken
-- [ ] Dark und Light Theme hinzufügen
+- [X] Dark und Light Theme hinzufügen
 - [ ] Die Description der Note und der Task soll mit markdown machbar sein
  
-✍️ Heute habe ich . . . (50 Wörter)
+✍️ Heute habe ich es endlich geschafft mein Frontend zum laufen zu bekommen, jedoch nur umständlich, ich muss noch herausfinden wie ich das lösen kann. Dazu habe ich noch das erste Grundgerüst aufgebaut. Und auch ein Dark Theme. 
+Um die App zu starten muss ich zuerst die .sln Datei starten und dann diesen link in meinen Browser eingeben: https://localhost:<port>/index.html mit dem jewilligen Port. (62 Wörter)
+
+## Beschreibung (fast) fertiges Projekt:
+Mit diesem Backend und Frontend kann ich jetzt Notizen oder sogar Aufgaben erstellen. Zudem habe ich dazu passend ein Frontend (html) erstellt, beides hat zwar noch Verbesserungspotenzial, aber ich werde sicher nochmal daran arbeiten.
+
+## Reflexion
+Ich bin zufrieden mit dem Projekt, aber was ich besser hätte machen können wäre es ein wenig schneller zu arbeiten, denn ich habe ziemlich lange gebraucht ein Backend mit einem Frontend zu verbinden.
+Statdessen habe ich es mir immer weider aufgeschoben und andere Sachen gemacht. 
