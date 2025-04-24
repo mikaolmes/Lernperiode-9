@@ -98,6 +98,8 @@ Um die App zu starten muss ich zuerst die .sln Datei starten und dann diesen lin
 
 ## Beschreibung (fast) fertiges Projekt:
 Mit diesem Backend und Frontend kann ich jetzt Notizen oder sogar Aufgaben erstellen. Zudem habe ich dazu passend ein Frontend (html) erstellt, beides hat zwar noch Verbesserungspotenzial, aber ich werde sicher nochmal daran arbeiten.
+![image](https://github.com/user-attachments/assets/b3c498c0-dec6-49ea-8e49-17c1da8d94db)
+
 
 ## Reflexion
 Ich bin zufrieden mit dem Projekt, aber was ich besser hätte machen können wäre es ein wenig schneller zu arbeiten, denn ich habe ziemlich lange gebraucht ein Backend mit einem Frontend zu verbinden.
