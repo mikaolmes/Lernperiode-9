@@ -83,8 +83,8 @@
 
 ## 04.04
 
-- [ ] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
-- [ ] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
+- [X] Frontend mit Backend verbinden https://www.youtube.com/watch?v=eRePJPhNSNQ
+- [X] Frontend Grundgerüst aufbauen (Header, Footer, evtl. Aside)
 - [ ] Socials verlinken
 - [ ] Dark und Light Theme hinzufügen
 - [ ] Die Description der Note und der Task soll mit markdown machbar sein
