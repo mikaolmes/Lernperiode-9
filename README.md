@@ -3,7 +3,7 @@
 21.2 bis 4.4
 
 
-(![TaskManager]((https://github.com/mikaolmes/Task-Manager))
+[TaskManager]((https://github.com/mikaolmes/Task-Manager))
 
 
 ## Grob-Planung
